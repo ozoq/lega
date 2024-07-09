@@ -1,0 +1,20 @@
+{
+  "name": "lega",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node lega.js"
+  },
+  "bin": {
+    "lega": "./lega.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^12.1.0",
+    "dotenv": "^16.4.5",
+    "ftp": "^0.3.10"
+  }
+}
